@@ -1,0 +1,56 @@
+HAOSEA AIO FC 
+Vi điều khiển chính: Stm32F405rgt6
+Xung nhịp: 168mhz
+Bộ nhớ flash: 1mb
+Ram: 128kb
+Hỗ trợ Inav 
+Gyro: BMI270
+Loại cổng Usb: type c
+Hỗ trợ black box: có(qua uart)
+Áp kế: không hỗ trợ 
+La bàn: không hỗ trợ 
+Chip OSD: không hỗ trợ 
+Hỗ trợ camera digital: hỗ trợ (vui lòng cấp nguồn qua pin)
+Nguồn bec 5v 3a(tại các chân uart)
+Nguồn bec 5v 3a(dành riêng cho servo)
+Hỗ trợ uart:
+Uart 2 cho elrs trên mạch
+Uart 5 cho esc trên mạch 
+Uart 3,4,6 tự do 
+
+Esc 32bit at32f421
+Trình điều khiển hỗ trợ: AM32
+Tín hiệu hỗ trợ: Dshot300, Dshot600 và Dshot1200
+Tần số PWM: Từ 24k đến 128k
+Điện áp đầu vào: Pin Lipo từ 3S đến 4S
+Dòng xả liên tục: 50A
+Phiên bản phần mềm (Firmware):
+Bản AM32: AT32DEVF421
+
+Thông số bộ thu 2.4G
+Mô hình: BAYCKRC C3 2.4Ghz 6PWM 10mw RX
+Tên: bộ thu ExpressLRS:
+Chip: SX1281 + ESP32C3
+Đầu nối ăng-ten: IPEX1
+Vui lòng nạp sơ đồ chân (file .json ) để mạch có thể chạy (chỉ làm khi flash phiên bản mới)
+Hoặc nhập số chân:
+"serial_rx": 20,
+"serial_tx": 21,
+"radio_busy": 10,
+"radio_dio1": 7,
+"radio_miso": 6,
+"radio_mosi": 5,
+"radio_nss": 3,
+"radio_rst": 2,
+"radio_sck": 4,
+"power_min": 0,
+"power_high": 0,
+"power_max": 0,
+"power_default": 0,
+"power_control": 0,
+"power_values": [13],
+"power_lna_gain": 0,
+"led_rgb"; 8,
+"led_rgb_isgrb": true
+
+Ứng dụng: các sản phẩm dùng 1 motor chổi than và 1 motor không chổi than hệ sinh thái elrs. (Xe rc(drift,địa hình,...) thuyền cao tốc 1 motor 1 servo,...)
