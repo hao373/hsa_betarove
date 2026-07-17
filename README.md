@@ -53,4 +53,4 @@ If you love engineering, own a 3D printer, and want to build a high-performance 
 Mọi đóng góp nâng cấp thiết kế cơ khí, tối ưu mạch PCB hoặc căn chỉnh PID trên iNav đều được chào đón. Hãy tạo một **Pull Request** hoặc tham gia thảo luận cùng chúng mình![cite: 1]
 
 * **discord Group:** https://discordapp.com/channels/1527509182088220733/1527509182088220736
-* **YouTube Channel:** miklahao1@gmail.com](https://www.youtube.com/@MiklaHAO
+* **YouTube Channel:** https://www.youtube.com/@MiklaHAO
