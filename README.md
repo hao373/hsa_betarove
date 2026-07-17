@@ -42,15 +42,30 @@ If you love engineering, own a 3D printer, and want to build a high-performance 
 
 ---
 
-## 📁 Thư mục Dự án / Repository Structure
+## 📁 Cấu trúc Thư mục / Repository Structure
 
-* `📁 Mechanics`: Chứa file CAD gốc (STEP/STL) thiết kế trên Autodesk Fusion
-* `📁 Hardware`: Chứa sơ đồ nguyên lý (Schematics) và file Gerber thiết kế mạch PCB
-* `📁 Firmware`: Chứa file `.hex` compiled sẵn và cấu hình CLI dành riêng cho iNav
-* `📁 Documentation`: Sách hướng dẫn lắp ráp 3D bóc tách chi tiết (PDF)
+* **🇻🇳 Tiếng Việt:**
+  * `📁 File 3D` (Mechanics): Chứa file CAD gốc (`.f3d`, `.step`) thiết kế trên Autodesk Fusion.
+  * `📁 hardware` (Hardware): Chứa sơ đồ nguyên lý (Schematics) và file Gerber thiết kế mạch PCB.
+  * `📁 Firmware` (Firmware): Chứa file `.hex` compiled sẵn, file CLI cấu hình iNav, và sơ đồ chân `.json` cho ELRS.
+  * `📁 Documentation` (Documentation): Sách hướng dẫn lắp ráp 3D bóc tách chi tiết (PDF) và video hướng dẫn.
+
+* **🇬🇧 English:**
+  * `📁 File 3D` (Mechanics): Contains original CAD source files (`.f3d`, `.step`) designed in Autodesk Fusion.
+  * `📁 hardware` (Hardware): Contains circuit schematics and Gerber files for PCB manufacturing.
+  * `📁 Firmware` (Firmware): Includes pre-compiled `.hex` files, iNav CLI configurations, and ELRS pinout `.json` files.
+  * `📁 Documentation` (Documentation): Step-by-step 3D assembly manuals (PDF) and video guides.
+
+---
 
 ## 🤝 Tham gia Đóng góp / Contributing
-Mọi đóng góp nâng cấp thiết kế cơ khí, tối ưu mạch PCB hoặc căn chỉnh PID trên iNav đều được chào đón. Hãy tạo một **Pull Request** hoặc tham gia thảo luận cùng chúng mình![cite: 1]
 
-* **discord Group:** https://discordapp.com/channels/1527509182088220733/1527509182088220736
-* **YouTube Channel:** https://www.youtube.com/@MiklaHAO
+* **🇻🇳 Tiếng Việt:**
+  Mọi đóng góp nâng cấp thiết kế cơ khí, tối ưu mạch PCB hoặc căn chỉnh PID trên iNav đều được chào đón nhiệt tình. Hãy tạo một **Pull Request** hoặc tham gia thảo luận cùng chúng mình qua các kênh bên dưới nhé!
+
+* **🇬🇧 English:**
+  Any contributions to improving mechanical designs, optimizing PCB layouts, or fine-tuning iNav PID settings are highly welcome. Please feel free to open a **Pull Request** or join our community discussions!
+
+### 💬 Liên kết Cộng đồng / Community Links
+
+* **👾 Discord Server:** [Join our Discord](https://discordapp.com/channels/1527509182088220733/1527509182088220736) (Nơi thảo luận kỹ thuật và hỗ trợ / Technical discussions & support)
