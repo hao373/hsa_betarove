@@ -4,6 +4,7 @@
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 [![Platform: iNav](https://img.shields.io/badge/Platform-iNav-green.svg)](https://github.com/iNavFlight/inav)
 [![RC Link: ExpressLRS](https://img.shields.io/badge/RC%20Link-ExpressLRS-orange.svg)](https://www.expresslrs.org/)
+[![ESC Firmware: AM32](https://img.shields.io/badge/ESC%20Firmware-AM32-emerald.svg)](https://github.com/am32-firmware/AM32)
 
 ---
 
@@ -51,5 +52,5 @@ If you love engineering, own a 3D printer, and want to build a high-performance 
 ## 🤝 Tham gia Đóng góp / Contributing
 Mọi đóng góp nâng cấp thiết kế cơ khí, tối ưu mạch PCB hoặc căn chỉnh PID trên iNav đều được chào đón. Hãy tạo một **Pull Request** hoặc tham gia thảo luận cùng chúng mình![cite: 1]
 
-* **discord Group:** [Link nhóm Telegram của ông giáo]
+* **discord Group:** https://discordapp.com/channels/1527509182088220733/1527509182088220736
 * **YouTube Channel:** miklahao1@gmail.com
