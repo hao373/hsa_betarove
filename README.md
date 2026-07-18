@@ -68,4 +68,4 @@ If you love engineering, own a 3D printer, and want to build a high-performance 
 
 ### 💬 Liên kết Cộng đồng / Community Links
 
-* **👾 Discord Server:** [Join our Discord](https://discordapp.com/channels/1527509182088220733/1527509182088220736) (Nơi thảo luận kỹ thuật và hỗ trợ / Technical discussions & support)
+* **👾 Discord Server:** [Join our Discord] https://discord.gg/BWj3YDgcD (Nơi thảo luận kỹ thuật và hỗ trợ / Technical discussions & support)
